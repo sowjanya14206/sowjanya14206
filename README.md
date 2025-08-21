@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sowjanya14206
-- 👀 I’m interested in web-development,Python
+- 👀 I’m interested in Backend Developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
